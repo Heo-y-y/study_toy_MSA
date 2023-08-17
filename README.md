@@ -15,7 +15,8 @@
 일단 UserService와 BookService가 HistoryService에서 조회해야하기 때문에 필자가 대여 횟수와 책 잔여 개수를 보내주는 mock test용 server를 만들기로 했다.
 
 그 뒤에 HistroyService → BookService를 수정하고 → LoanService를 구현했다.
-
+## 테이블 구조
+![스크린샷 2023-08-17 오후 5 45 53 1](https://github.com/heo-mewluee-Study-Group/cs-study/assets/112863029/10a6e7a0-5b0d-4ec0-9331-67dd2366cbe5)
 
 ## API 요구사항 명세서
 
