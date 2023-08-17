@@ -378,7 +378,7 @@ class HistoryRepositoryTest {
 
 처음에는 `@DataJpaTest` 만 사용하니까 계속해서 에러가 나왔다. 
 그래서 `@AutoConfigureTestDatabase(replace = Replace.NONE)` 를 사용했더니 해결됐다.
-자세한 이유는 **[ErrorLog]([https://www.notion.so/21aa7fd8c56e44f0bd877b50e9ca1f0a?pvs=21](https://github.com/Heo-y-y/study_toy_MSA/blob/main/history-service/error-log.md))** 에서 확인하기 바란다.
+자세한 이유는 **[ErrorLog](https://www.notion.so/21aa7fd8c56e44f0bd877b50e9ca1f0a?pvs=21](https://github.com/Heo-y-y/study_toy_MSA/blob/main/history-service/error-log.md)** 에서 확인하기 바란다.
 
 레파지토리 테스트는 이 정도만 알면 쉽게 테스트가 가능했다.
 
