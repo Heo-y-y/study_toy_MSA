@@ -66,7 +66,6 @@ User service, Loan Service, Book Service, History Service로 이루어진 서점
 2. History Service를 조회하여 대여 중인 수량을 비교한다. // 옵션
 3. 두 값을 비교하여 남은 수량을 확인한다.
 ```
-
 **추가 요구 사항**
 
 - 책을 최종적으로 대여한 경우 수량을 감소시키는 API 구현 (동시성 해결을 위해 원하는 방식으로 구현)
@@ -80,6 +79,8 @@ User service, Loan Service, Book Service, History Service로 이루어진 서점
 1. 책 대여 기록을 자체 DB에 적재하는 API
 2. User Service, Book Service 구현에 필요한 API
 ```
+### [MockTest Service](https://github.com/Heo-y-y/study_toy_MSA/tree/main/mock-test)
+UserService와 BookService가 먼저 테스트할 수 있게 도와주는 역할을 담당한다.
 
 ### 설계 주의 사항
 
