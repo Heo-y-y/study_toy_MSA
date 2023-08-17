@@ -1,6 +1,7 @@
 ## 학습 설명
 
 사전에 알고리즘API를 이용한 Spring Cloud OpenFeign을 학습하고, 스터디원들과 간단한 서점 대여 서비스를 만들어보는 프로젝트를 진행했다.
+- GitHub: <https://github.com/Heo-y-y/study_toy_MSA>
 
 
 ## API 요구사항 명세서
