@@ -44,7 +44,7 @@ User service, Loan Service, Book Service, History Service로 이루어진 서점
 2. 대여가 성공적으로 이루어지면 HistoryService에게 대여 기록을 보낸다.
 ```
 
-### Book Service
+### [Book Service](https://github.com/Heo-y-y/study_toy_MSA/tree/main/Book-Service)
 
 책의 남은 수량을 확인하는 역할을 담당한다.
 
