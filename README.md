@@ -35,7 +35,7 @@ User service, Loan Service, Book Service, History Service로 이루어진 서점
 
 - user를 등록할 수 있는 API
 
-### Loan Service
+### [Loan Service](https://github.com/Heo-y-y/study_toy_MSA/tree/main/Loan-Service)
 
 이번 과제의 메인 흐름인 대여를 담당하는 서비스이다.
 
