@@ -71,7 +71,7 @@ User service, Loan Service, Book Service, History Service로 이루어진 서점
 
 - 책을 최종적으로 대여한 경우 수량을 감소시키는 API 구현 (동시성 해결을 위해 원하는 방식으로 구현)
 
-### History Service
+### [History Service](https://github.com/Heo-y-y/study_toy_MSA/tree/main/history-service)
 
 책 대여 기록을 담당한다.
 
