@@ -1,6 +1,6 @@
 ## 학습 설명
 
-사전에 알고리즘API를 이용한 Spring Cloud OpenFeign을 학습하고, 스터디원들과 간단한 서점 대여 서비스를 만들어보는 프로젝트를 진행했다.
+사전에 알고리즘API를 이용한 [Spring Cloud OpenFeign을 학습](https://github.com/Heo-y-y/study_api_call)하고, 스터디원들과 간단한 서점 대여 서비스를 만들어보는 프로젝트를 진행했다.
 - GitHub: <https://github.com/Heo-y-y/study_toy_MSA>
 
 우선 인원이 3명이여서 LoanService을 빼고 나머지 3가지 서비스를 각각 맡아서 진행하기로 했었는데, 내가 **HistoryService**를 담당하기로 했었지만, 스터디원 1명이 중간에 빠져야하는 상황이 생겨 추가적으로 **LoanService**와 **BookService**까지 구현하게 됐다.
